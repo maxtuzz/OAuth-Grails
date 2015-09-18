@@ -18,4 +18,4 @@ This example will also work fine with up-to-date versions of Grails and Java.
 ###Disclaimer
 Uses [OAuth Plugin for Grails](http://grails.org/plugin/oauth)
 
-Free to use as you please as long as no harm comes from it
+Free to use however you please. 
